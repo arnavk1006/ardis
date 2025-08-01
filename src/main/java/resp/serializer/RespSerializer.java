@@ -1,6 +1,6 @@
-package resp.serializer.core;
+package resp.serializer;
 
-import resp.serializer.types.*;
+import resp.serializer.impl.*;
 import resp.types.*;
 
 import java.io.IOException;

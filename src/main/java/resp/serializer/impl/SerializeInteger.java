@@ -1,6 +1,6 @@
-package resp.serializer.types;
+package resp.serializer.impl;
 
-import resp.serializer.core.SerializerType;
+import resp.serializer.SerializerType;
 import resp.types.RespInteger;
 import resp.types.RespType;
 

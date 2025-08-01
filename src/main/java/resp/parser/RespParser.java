@@ -1,10 +1,10 @@
-package resp.parser.core;
+package resp.parser;
 
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.Map;
 
-import resp.parser.types.*;
+import resp.parser.impl.*;
 import resp.types.RespType;
 
 /**

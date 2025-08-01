@@ -1,7 +1,7 @@
-package resp.parser.types;
+package resp.parser.impl;
 
 import org.junit.jupiter.api.Test;
-import resp.parser.core.RespParser;
+import resp.parser.RespParser;
 import resp.types.RespInteger;
 import resp.types.RespType;
 

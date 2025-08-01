@@ -1,4 +1,4 @@
-package resp.serializer.core;
+package resp.serializer;
 
 import org.junit.jupiter.api.Test;
 import resp.types.*;

@@ -1,7 +1,7 @@
-package resp.serializer.types;
+package resp.serializer.impl;
 
 import org.junit.jupiter.api.Test;
-import resp.serializer.core.RespSerializer;
+import resp.serializer.RespSerializer;
 import resp.types.RespInteger;
 
 import java.io.ByteArrayOutputStream;

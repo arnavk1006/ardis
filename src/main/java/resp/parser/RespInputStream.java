@@ -1,4 +1,4 @@
-package resp.parser.core;
+package resp.parser;
 
 import java.io.ByteArrayOutputStream;
 import java.io.InputStream;

@@ -1,8 +1,8 @@
-package resp.parser.types;
+package resp.parser.impl;
 
-import resp.parser.core.ParserType;
-import resp.parser.core.RespInputStream;
-import resp.parser.core.RespParser;
+import resp.parser.ParserType;
+import resp.parser.RespInputStream;
+import resp.parser.RespParser;
 import resp.types.RespArray;
 import resp.types.RespType;
 import java.io.IOException;

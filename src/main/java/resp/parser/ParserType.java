@@ -1,4 +1,4 @@
-package resp.parser.core;
+package resp.parser;
 
 import resp.types.RespType;
 import java.io.IOException;
@@ -6,7 +6,7 @@ import java.io.IOException;
 /**
  * Strategy interface for parsing RESP data types.
  * Implementations of this interface encapsulate the parsing logic for specific RESP types
- * This interface is used by the {@link resp.parser.core.RespParser} to delegate parsing
+ * This interface is used by the {@link RespParser} to delegate parsing
  * based on the RESP type indicator byte.
  */
 public interface ParserType {

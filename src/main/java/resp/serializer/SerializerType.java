@@ -1,4 +1,4 @@
-package resp.serializer.core;
+package resp.serializer;
 
 import resp.types.RespType;
 
